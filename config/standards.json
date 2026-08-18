@@ -1,0 +1,14 @@
+{
+  "standards": [
+    {"code": "ASCE 7", "edition": "2022", "aliases": ["ASCE 7-22", "ASCE/SEI 7-22"]},
+    {"code": "IBC", "edition": "2024", "aliases": ["IBC 2024"]},
+    {"code": "IBC", "edition": "2021", "aliases": ["IBC 2021"]},
+    {"code": "NDS", "edition": "2024", "aliases": ["NDS 2024"]},
+    {"code": "NDS", "edition": "2018", "aliases": ["NDS 2018"]},
+    {"code": "SDPWS", "edition": "2021", "aliases": ["SDPWS 2021"]},
+    {"code": "AISC 360", "edition": "2022", "aliases": ["AISC 360-22"]},
+    {"code": "AISC 360", "edition": "2016", "aliases": ["AISC 360-16"]},
+    {"code": "ACI 318", "edition": "2025", "aliases": ["ACI 318-25"]},
+    {"code": "ACI 318", "edition": "2019", "aliases": ["ACI 318-19"]}
+  ]
+}
