@@ -1,0 +1,6 @@
+# Ignore raw data files and large PDFs
+data/raw/*
+*.pdf
+
+# Keep the data folder structure in Git without tracking its heavy contents
+!data/raw/.gitkeep
