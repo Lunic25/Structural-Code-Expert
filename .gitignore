@@ -2,5 +2,5 @@
 data/raw/*
 *.pdf
 
-# Keep the data folder structure in Git without tracking its heavy contents
+# Keep the data folder structure in Git without tracking bullshit pdfs
 !data/raw/.gitkeep
