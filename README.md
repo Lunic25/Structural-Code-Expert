@@ -1,2 +1,1 @@
-# Structural-Code-Expert
-Structural Engineering Code Expert
+# Structural Code Expert
